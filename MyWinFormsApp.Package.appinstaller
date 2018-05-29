@@ -1,9 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<AppInstaller Uri="https://github.com/luisdemerio/msix/blob/master/MyWinFormsApp.Package.appinstaller" 
-              Version="1.0.11.0"
-               xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
-  <MainBundle Name="877f274c-43c7-47ff-8dce-5f85927f9dfb" Version="1.0.11.0" Publisher="CN=luisdem"
-               Uri="https://github.com/luisdemerio/msix/blob/master/MyWinFormsApp.Package_1.0.11.0_Debug_Test/MyWinFormsApp.Package_1.0.11.0_AnyCPU_Debug.appxbundle" />
+<AppInstaller Uri="https://github.com/luisdemerio/msix/blob/master/MyWinFormsApp.Package.appinstaller" Version="1.0.12.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+  <MainBundle Name="877f274c-43c7-47ff-8dce-5f85927f9dfb" Version="1.0.12.0" Publisher="CN=luisdem" Uri="https://github.com/luisdemerio/msix/blob/master/MyWinFormsApp.Package_1.0.12.0_Debug_Test/MyWinFormsApp.Package_1.0.12.0_AnyCPU_Debug.appxbundle" />
   <UpdateSettings>
     <OnLaunch HoursBetweenUpdateChecks="0" />
   </UpdateSettings>
